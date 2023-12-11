@@ -1,0 +1,6 @@
+# Custom ignore
+# yarn.lock
+# package-lock.json
+
+# Dependency directories
+node_modules/
