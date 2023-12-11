@@ -20,9 +20,9 @@
     "author": "rinvay <rinvay1999@qq.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/mweststrate/use-immer/issues"
+        "url": "https://github.com/rinvay2021/use-immer-state/issues"
     },
-    "homepage": "",
+    "homepage": "https://github.com/rinvay2021/use-immer-state/blob/master/README.md",
     "files": [
         "dist/"
     ],
